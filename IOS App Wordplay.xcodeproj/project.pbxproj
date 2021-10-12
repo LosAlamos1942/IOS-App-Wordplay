@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F7934D1270DFA6A003BDB40 /* SwiftUIView1 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7934D0270DFA6A003BDB40 /* SwiftUIView1 .swift */; };
+		3F7934D3270DFB5E003BDB40 /* StoryView .swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7934D2270DFB5E003BDB40 /* StoryView .swift */; };
 		3FB2EAC9270CA4F300769F06 /* IOS_App_WordplayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB2EAC8270CA4F300769F06 /* IOS_App_WordplayApp.swift */; };
 		3FB2EACB270CA4F300769F06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB2EACA270CA4F300769F06 /* ContentView.swift */; };
 		3FB2EACD270CA4F800769F06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FB2EACC270CA4F800769F06 /* Assets.xcassets */; };
@@ -33,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F7934D0270DFA6A003BDB40 /* SwiftUIView1 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView1 .swift"; sourceTree = "<group>"; };
+		3F7934D2270DFB5E003BDB40 /* StoryView .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StoryView .swift"; sourceTree = "<group>"; };
 		3FB2EAC5270CA4F300769F06 /* IOS App Wordplay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS App Wordplay.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB2EAC8270CA4F300769F06 /* IOS_App_WordplayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS_App_WordplayApp.swift; sourceTree = "<group>"; };
 		3FB2EACA270CA4F300769F06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 			children = (
 				3FB2EAC8270CA4F300769F06 /* IOS_App_WordplayApp.swift */,
 				3FB2EACA270CA4F300769F06 /* ContentView.swift */,
+				3F7934D2270DFB5E003BDB40 /* StoryView .swift */,
+				3F7934D0270DFA6A003BDB40 /* SwiftUIView1 .swift */,
 				3FB2EACC270CA4F800769F06 /* Assets.xcassets */,
 				3FB2EAD1270CA4F800769F06 /* Info.plist */,
 				3FB2EACE270CA4F800769F06 /* Preview Content */,
@@ -259,8 +265,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F7934D1270DFA6A003BDB40 /* SwiftUIView1 .swift in Sources */,
 				3FB2EACB270CA4F300769F06 /* ContentView.swift in Sources */,
 				3FB2EAC9270CA4F300769F06 /* IOS_App_WordplayApp.swift in Sources */,
+				3F7934D3270DFB5E003BDB40 /* StoryView .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
